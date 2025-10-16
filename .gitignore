@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# Virtual env
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit & notebooks
+.streamlit/
+*.ipynb_checkpoints/
+
+# Local data & artifacts
+faiss_db/
+mem_db/
+plot.png

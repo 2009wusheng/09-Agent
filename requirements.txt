@@ -1,0 +1,18 @@
+# Core appstreamlit>=1.36.0
+pandas>=2.2.2
+matplotlib>=3.9.0
+python-dotenv>=1.0.1
+PyPDF2>=3.0.1
+
+# Vector store / embeddings
+faiss-cpu>=1.8.0
+
+# LangChain stack
+langchain>=0.2.16
+langchain-core>=0.2.38
+langchain-community>=0.2.16
+langchain-experimental>=0.0.64
+
+# Embedding/LLM providers used in code
+# DashScope embeddings (DashScopeEmbeddings)
+dashscope>=1.18.0
